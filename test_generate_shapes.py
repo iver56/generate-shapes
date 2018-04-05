@@ -1,8 +1,5 @@
-import numpy as np
-from numpy.testing import assert_array_equal, assert_equal
-
 import pytest
-from generate_shapes import generate_shapes
+from generate_shapes.generate_shapes import generate_shapes
 
 
 def test_generates_color_images_with_correct_shape():
