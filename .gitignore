@@ -148,3 +148,6 @@ ENV/
 /site
 
 # End of https://www.gitignore.io/api/python,emacs
+
+# IntelliJ IDEA
+.idea
